@@ -1,0 +1,1 @@
+The CSS rule `:nth-child(n+x)` selector can lead to unexpected results if not used carefully. For example, if you want to select every other element starting from the second one, you might assume `:nth-child(2n+1)` will work but it selects the first, third, fifth, and so on.
