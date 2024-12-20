@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon issue with the `:nth-child(n+x)` selector in CSS. The problem arises from misunderstanding how the selector works when the starting index (`x`) is greater than 1. The example shows how the selector behaves differently than what one might intuitively expect. A solution is provided to achieve the intended selection.
